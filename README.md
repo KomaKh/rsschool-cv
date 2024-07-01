@@ -1,1 +1,1 @@
-https://KomaKh.github.io/rsschool-cv/
+https://KomaKh.github.io/rsschool-cv/cv

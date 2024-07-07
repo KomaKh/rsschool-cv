@@ -1,3 +1,42 @@
 body {
-    background-color: aliceblue;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+.container {
+    width: 80%;
+    margin: 0 auto;
+    background: #fff;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+h1, h2, h3 {
+    color: #333;
+}
+.section {
+    margin-bottom: 20px;
+}
+.section-title {
+    background: #333;
+    color: #fff;
+    padding: 10px;
+    margin: -20px -20px 10px;
+}
+.contact-info, .education, .experience, .skills {
+    padding-left: 20px;
+}
+.contact-info p, .education p, .experience p, .skills p {
+    margin: 5px 0;
+}
+ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+ul li {
+    background: #f4f4f4;
+    margin: 5px 0;
+    padding: 10px;
+    border-left: 5px solid #333;
 }
